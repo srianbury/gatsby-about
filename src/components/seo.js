@@ -87,3 +87,4 @@ Seo.propTypes = {
 }
 
 export default Seo
+export { Seo }
